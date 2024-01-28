@@ -12,12 +12,6 @@ Here are some of the 🛠️ popular tools and technologies I am experienced wit
 - **Database**: Oracle Sql🗂️
 - **Operating Systems**: Apple 🍎,Android ,Windows 🖥️
 - **IDEs**: Sublime Text Editor,Visual Studio Code 💻, Android Studio 📱, JetBrains IDEs 🚀
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mishad01&theme=react-dark"/>
-
-# 📊 GitHub Stats:
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mishad01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mishad01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
