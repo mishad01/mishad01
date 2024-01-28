@@ -2,7 +2,8 @@
 <h1 align="center">I'm Mishad</h1>
 
 ### About Me
-<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<p align="center" height="75"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikkdev" alt="anikkdev" /></a> </p>
+
 🖥️ CSE Student | Coding aficionado exploring 🤖 C, 🤖 C++, 🎯 Dart, and Java. A C++ maestro in coding competitions. Passionate about Flutter for creating dynamic mobile experiences 📱
 
 ### 🚀 Skills and Tools
