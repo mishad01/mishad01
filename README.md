@@ -17,7 +17,7 @@ Here are some of the 🛠️ popular tools and technologies I am experienced wit
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mishad01&theme=react-dark"/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mishad01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mishad01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mishad01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
