@@ -17,6 +17,6 @@ Here are some of the 🛠️ popular tools and technologies I am experienced wit
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mishad01&theme=react-dark"/>
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/saif-gitreps"><img src="https://github-readme-stats.vercel.app/api?username=saif-gitreps&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="saif-gitreps's GitHub stats" /></a>
+<a href="http://www.github.com/mishad01"><img src="https://github-readme-stats.vercel.app/api?username=saif-gitreps&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="saif-gitreps's GitHub stats" /></a>
 
 <a href="http://www.github.com/saif-gitreps"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saif-gitreps&stroke=facc15&background=000000&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
