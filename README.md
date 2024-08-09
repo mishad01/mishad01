@@ -12,7 +12,7 @@ Here are some of the 🛠️ popular tools and technologies I am experienced wit
 - **Languages**: C 🔢, C++ 🤖,Dart 🎯, Java ☕, Kotlin
 - **Mobile App Development**: Flutter 📱,Kotlin 📱, GetX 🚀
 - **Database**: Oracle Sql🗂️, Firebase 🔥, REST API 🌐
-- **Operating Systems**: Apple 🍎,Android ,Windows 🖥️
+- **Operating Systems**: Apple 🍎,Android , Windows 🖥️
 - **IDEs**: Sublime Text Editor,Visual Studio Code 💻, Android Studio 📱, JetBrains IDEs 🚀
 <br/>
   
