@@ -9,7 +9,7 @@
 
 ### 🚀 Skills and Tools
 Here are some of the 🛠️ popular tools and technologies I am experienced with:
-- **Languages**: C 🔢, C++ 🤖,Dart 🎯, Java ☕, Kotlin
+- **Languages** : C 🔢, C++ 🤖,Dart 🎯, Java ☕, Kotlin
 - **Mobile App Development**: Flutter 📱,Kotlin 📱, GetX 🚀
 - **Database**: Oracle Sql🗂️, Firebase 🔥, REST API 🌐
 - **Operating Systems**: Apple 🍎,Android , Windows 🖥️
