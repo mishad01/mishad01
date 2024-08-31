@@ -7,7 +7,7 @@
 
 🖥️ CSE Student | Coding aficionado exploring 🤖 C, 🤖 C++, 🎯 Dart, and Java. A C++ maestro in coding competitions. Passionate about Flutter for creating dynamic mobile experiences📱
 
-### 🚀 Skills and Tools
+## 🚀 Skills and Tools
 Here are some of the 🛠️ popular tools and technologies I am experienced with:
 - **Languages** : C 🔢, C++ 🤖,Dart 🎯, Java ☕, Kotlin
 - **Mobile App Development**: Flutter 📱,Kotlin 📱, GetX 🚀
