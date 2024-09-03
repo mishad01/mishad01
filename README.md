@@ -2,12 +2,11 @@
 <h1 align="center">I'm Mishad</h1>
 
 ### About Me
+🖥️ CSE Student | Coding aficionado exploring 🤖 C, 🤖 C++, 🎯 Dart, and Java. A C++ maestro in coding competitions. Passionate about Flutter for creating dynamic mobile experiences📱
 <a href="https://app.daily.dev/mishad">
   <img align="right" src="https://api.daily.dev/devcards/v2/BiRNXKnZuiWakM9C3B8TJ.png?type=default&r=w6l" width="220" alt="Sakif Rahaman Mishad's Dev Card"/>
 </a>
 
-
-🖥️ CSE Student | Coding aficionado exploring 🤖 C, 🤖 C++, 🎯 Dart, and Java. A C++ maestro in coding competitions. Passionate about Flutter for creating dynamic mobile experiences📱
 
 ## 🚀 Skills and Tools
 Here are some of the 🛠️ popular tools and technologies I am experienced with:
