@@ -3,7 +3,7 @@
 
 ### About Me
 <a href="https://app.daily.dev/mishad">
-  <img align="right" src="https://api.daily.dev/devcards/v2/BiRNXKnZuiWakM9C3B8TJ.png?type=default&r=w6l" width="200" alt="Sakif Rahaman Mishad's Dev Card"/>
+  <img align="right" src="https://api.daily.dev/devcards/v2/BiRNXKnZuiWakM9C3B8TJ.png?type=default&r=w6l" width="220" alt="Sakif Rahaman Mishad's Dev Card"/>
 </a>
 
 
