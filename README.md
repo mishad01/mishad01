@@ -22,16 +22,15 @@ Here are some of the 🛠️ popular tools and technologies I am experienced wit
 
 <div style="display:flex">
   <img alt="" height="60px" width="60px"   src="assets/tech/c.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/cplusplus.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/dart.svg.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/cpp.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/dart.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/java.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/kotlin.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/python.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/flutter.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/firebase.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/git.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/database.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Flutter.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/NET.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/sql.svg"/>
+   <img alt="" height="60px" width="60px"   src="assets/tech/api_integration.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/android.svg"/>
 </div>
