@@ -36,4 +36,4 @@ Here are some of the 🛠️ popular tools and technologies I am experienced wit
   <img alt="" height="50px" width="50px"   src="assets/tech/android.svg"/>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,dart,java,python,kotlin,sqlite,sql&theme=light)](https://skillicons.dev)
