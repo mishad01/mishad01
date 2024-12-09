@@ -68,6 +68,20 @@ Here are some of the 🛠️ popular tools and technologies I am experienced wit
             width="40"
             height="40" />
     </a>
+  <a href="https://matplotlib.org/3.1.1/index.html" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img
+            src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg"
+            alt="pandas"
+            width="40"
+            height="40" />
+    </a>
+   <a href="https://seaborn.pydata.org/#" target="_blank" rel="noreferrer" style="text-decoration: none;">
+        <img
+            src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"
+            alt="pandas"
+            width="40"
+            height="40" />
+    </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img
             src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
