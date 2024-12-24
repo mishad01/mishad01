@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">I'm Mishad </h1>
+<h1 align="center">I'm Mishad</h1>
 
 ## About Me
 <a href="https://app.daily.dev/mishad">
