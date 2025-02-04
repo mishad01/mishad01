@@ -22,7 +22,7 @@ Here are some of the 🛠️ popular tools and technologies I am experienced wit
 <p align="center">  Programming Languages</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,dart,java,python,kotlin,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,kotlin,&theme=light" />
   </a>
 </p>
 
