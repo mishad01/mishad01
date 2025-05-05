@@ -14,7 +14,7 @@ Here are some of the 🛠️ popular tools and technologies I am experienced wit
 - **Mobile App Development**: Flutter 📱, Kotlin 📱, GetX🚀
 - **Database**: Oracle SQL 🗂️, Firebase 🔥, REST API 🌐
 - **Operating Systems**: Apple 🍎, Android, Windows 🖥️
-- **IDEs**: Sublime Text Editor, Visual Studio Code 💻, Android Studio 📱, JetBrains IDEs 🚀
+- **IDEs**: Sublime Text Editor, Visual Studio Code 💻, Android Studio 📱, JetBrains IDEs🚀
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishad01&theme=dark&hide_border=false" alt="GitHub Streak" /></p>
 
