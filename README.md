@@ -10,10 +10,11 @@
 
 ### 🚀 Skills and Tools
 Here are some of the 🛠️ popular tools and technologies I am experienced with:
-- **Languages**: C 🔢, C++ 🤖, Dart 🎯, Java ☕, Kotlin, Python .
-- **Mobile App Development**: Flutter 📱, Kotlin 📱, GetX🚀
-- **Database**: Oracle SQL 🗂️, Firebase 🔥, REST API 🌐
-- **Operating Systems**: Apple 🍎, Android, Windows 🖥️
+- **Languages**: C 🔢 · C++ 🤖 · Dart 🎯 · Java ☕ · Kotlin 💛 · Python 🐍
+- **Mobile App Development**: Flutter 📱 · Kotlin (Jetpack Compose) 📱 · GetX 🚀
+- **Database**: Oracle SQL 🗂️ · Room Database 🧱 · Firebase Authentication & Firestore 🔥 · Supabse 🧱 · REST API 🌐
+- **Libraries & Frameworks**: Jetpack Compose 🧩 · ViewModel 🧠 · Hilt (Dependency Injection) 🛠️ · Retrofit 📡 · LiveData
+- **Operating Systems**: Windows 🖥️ · Android 🤖 · macOS 🍎
 - **IDEs**: Sublime Text Editor, Visual Studio Code 💻, Android Studio 📱, JetBrains IDEs🚀
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishad01&theme=dark&hide_border=false" alt="GitHub Streak" /></p>
