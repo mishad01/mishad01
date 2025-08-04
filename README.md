@@ -11,7 +11,8 @@
 ### 🚀 Skills and Tools
 
 - **Languages:** C, C++, Dart, Java, Kotlin, Python
-- **Mobile App Development:** Flutter, Kotlin (Jetpack Compose), GetX
+- **Mobile App Development:** Flutter, Kotlin (Jetpack Compose)
+- **State Management:** GetX, Provider, Riverpod, BLoC
 - **Databases:** Oracle SQL, Room Database, Firebase Authentication & Firestore, Supabase, REST API
 - **Libraries & Frameworks:** Jetpack Compose, ViewModel, Hilt (Dependency Injection), Retrofit, LiveData
 - **Operating Systems:** Windows, Android, macOS
