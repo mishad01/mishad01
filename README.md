@@ -6,7 +6,7 @@
   <img align="right" src="https://api.daily.dev/devcards/v2/BiRNXKnZuiWakM9C3B8TJ.png?type=default&r=8us" width="180" alt="Sakif Rahaman Mishad's Dev Card "/>
 </a>
 
-🖥️ CSE Student | Coding aficionado exploring 🤖 C, 🤖 C++, 🎯 Dart and Java. A C++ maestro in coding competitions. Passionate about Flutter for creating dynamic mobile experiences📱.
+🖥️ CSE Student | Coding aficionado exploring 🤖 C, 🤖 C++, 🎯 Dart and Java. A C++ maestro in coding competitions. Passionate in Flutter and Kotlin for creating dynamic mobile experiences📱.
 
 ### 🚀 Skills and Tools
 
