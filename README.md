@@ -1,19 +1,23 @@
-### Hi there 👋
-<h1 align="center">I'm Mishad</h1>
+Hi there 
+<h1 align="center">I'm Mishad</h1> <p align="center"><b>Software Engineer | Full-Stack Mobile Developer </b></p>
 
-## About Me
-<a href="https://app.daily.dev/mishad">
-  <img align="right" src="https://api.daily.dev/devcards/v2/BiRNXKnZuiWakM9C3B8TJ.png?type=default&r=8us" width="180" alt="Sakif Rahaman Mishad's Dev Card "/>
-</a>
+🚀 Professional Profile
+<a href="https://app.daily.dev/mishad"> <img align="right" src="https://api.daily.dev/devcards/v2/BiRNXKnZuiWakM9C3B8TJ.png?type=default&r=8us" width="180" alt="Mishad's Dev Card "/> </a>
 
-🖥️ CSE Student | Coding aficionado exploring 🤖 C, 🤖 C++, 🎯 Dart and Java. A C++ maestro in coding competitions. Passionate in Flutter and Kotlin for creating dynamic mobile experiences📱.
+As a Software Engineer, I specialize in building scalable, high-performance mobile applications and robust backend integrations. With a strong foundation in C++ and competitive programming, I bring algorithmic efficiency to every project I touch.
+
+
+- 🔭 Currently: Engineering seamless mobile experiences using Flutter and Kotlin/Native.
+- ⚡ Core Strength: Architecting clean, maintainable code using advanced State Management and Dependency Injection.
+- Solving complex problems through data-driven decisions and performance optimization.
+
 
 ### 🚀 Skills and Tools
 
 - **Languages:** C, C++, Dart, Java, Kotlin, Python
 - **Mobile App Development:** Flutter, Kotlin (Jetpack Compose)
 - **State Management:** GetX, Provider, Riverpod, BLoC
-- **Databases:** Oracle SQL, Room Database, Firebase Authentication & Firestore, Supabase, REST API
+- **Backend & DB:** Firebase, Supabase, PostgreSQL, REST APIs, Retrofit
 - **Libraries & Frameworks:** Jetpack Compose, ViewModel, Hilt (Dependency Injection), Retrofit, LiveData
 - **Operating Systems:** Windows, Android, macOS
 - **IDEs:** Sublime Text Editor, Visual Studio Code, Android Studio, JetBrains IDEs
