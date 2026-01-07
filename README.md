@@ -2,7 +2,7 @@ Hi there
 <h1 align="center">I'm Mishad</h1> <p align="center"><b>Software Engineer | Full-Stack Mobile Developer </b></p>
 
  Professional Profile
-<a href="https://app.daily.dev/mishad"> <img align="right" src="https://api.daily.dev/devcards/v2/BiRNXKnZuiWakM9C3B8TJ.png?type=default&r=8us" width="180" alt="Mishad's Dev Card "/> </a>
+<a href="https://app.daily.dev/mishad"> <img align="right" src="https://api.daily.dev/devcards/v2/BiRNXKnZuiWakM9C3B8TJ.png?type=default&r=kx3" width="180" alt="Sakif Rahaman Mishad's Dev Card"/></a>
 
 As a Software Engineer, I specialize in building scalable, high-performance mobile applications and robust backend integrations. With a strong foundation in C++ and competitive programming, I bring algorithmic efficiency to every project I touch.
 
